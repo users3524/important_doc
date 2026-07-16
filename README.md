@@ -8,6 +8,7 @@
 - [硬件工程](<02_Hardware_Engineering/README.md>)
 - [软件架构与技能](<03_Software_Architecture/README.md>)
 - [课程大纲与成长规划](<00_Curriculum_&_Growth/README.md>)
+- [工程项目归档](<04_Project/README.md>)
 - [模板与工程检查表](<05_Templates_&_Checklists/README.md>)
 
 ## 快速入口
@@ -24,4 +25,5 @@
 - `01_Frameworks_&_Flows`: MCU、BMS、ROS 等开发流程与工程规范。
 - `02_Hardware_Engineering`: 电路设计、电源电机、EMC/ESD 与可靠性测试。
 - `03_Software_Architecture`: 固件驱动、RTOS、控制算法等软件能力沉淀。
+- `04_Project`: 可直接用工程工具打开的项目文件与元件库归档。
 - `05_Templates_&_Checklists`: 调试检查表、测试用例、评审模板和工程复用清单。
